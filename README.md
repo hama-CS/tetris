@@ -10,3 +10,8 @@ Optional additions would be utilizing a database to impliment user account so th
 Possibly a global highscore for daily, weekly and monthly scores.
 
 # Feel free to request changes or impliment them and I will grant contributer status.
+
+
+
+
+Here is a test message to aid me learning how to use the git commands and version control.
